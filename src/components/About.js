@@ -24,8 +24,6 @@
           <li>      <a href='https://www.linkedin.com/in/vignesh-s-9b4626229/' target='_blank'><LinkedInIcon fontSize="large" /></a></li> 
                 <li> <a href=' https://mail.google.com/mail/u/0/?hl=en/#inbox?compose=new' target='_blank'><MailIcon  fontSize="large"/></a></li>
           <li>  <a href='https://github.com/vigneshcodesfyi' target='_blank'><GitHubIcon  fontSize="large"/></a></li>
-
-         
       </ul>
       <div className='downloadbutton'>
       <a href={resume} download={resume}>

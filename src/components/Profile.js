@@ -11,8 +11,6 @@ const Profile = () => {
 
     </div>
 
-
-
     <div className='profile-section-details'>
       
       <h5>Front End Developer</h5>

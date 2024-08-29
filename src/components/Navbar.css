@@ -51,8 +51,11 @@
   .navigation-hamburger-content > ul > li {
     color: white;
     cursor: pointer;
+
   }
-  
+  .navigation-hamburger-content > ul > li:hover{
+
+color:aquamarine ;  }
   @media only screen and (max-width: 991px) {
     .navigation-hamburger {
       display: block; 
