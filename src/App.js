@@ -9,7 +9,7 @@ function App() {
      <Navbar/>
      <Profile/>
      <About/>
-    </div>
+   </div>
   );
 }
 

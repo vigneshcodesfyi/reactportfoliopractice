@@ -1,14 +1,34 @@
 
 .aboutme-container-text
 {
-    background-color: rgb(150, 148, 146);
+    display: flex;
+flex-direction: column;
+justify-content: space-around;
 }
-.aboutmeheading{}
+.aboutimage{
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    border-radius: 100px;
+    border-bottom: 2px solid rgb(58, 185, 163);
+    border-top: 2px solid rgb(58, 185, 163);
+
+    color: rgb(255, 255, 255);
+
+
+}
+
+
+.aboutmeheading{
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+    padding: 20px;
+}
 .aboutus-sociallinks{
-    width: 50%;
+    width: 20%;
     display: flex;
 list-style: none;
-gap:10px;
 justify-content: space-around;
 color: white;
 padding: 10px;
@@ -16,8 +36,9 @@ padding: 10px;
 margin : 0px auto;
 }
  .aboutus-sociallinks > li{
-    color: rgb(18, 17, 17);
+    color: rgb(255, 255, 255);
     cursor: pointer;
+    margin-bottom: 50px;
 
   
 }
@@ -32,11 +53,33 @@ button{
  
     display: flex;
     justify-content: center ;
+    margin-bottom: 20px;
 }  
+.aboutme-text{
+
+font-size: larger;
+padding: 50px;
+}
+
+.aboutus-sociallinks > li :hover{
+    color:aquamarine
+  
+}
+
 
 @media only screen and (max-width: 991px) {
-    .aboutme{
-
-     } 
-    
+    .aboutus-sociallinks{
+        width: 100%;
+      
+    }
 }
+
+@media only screen and (max-width: 1024px) {
+    .aboutus-sociallinks{
+        width: 50%;
+      
+    }
+  
+  
+ 
+  }
