@@ -36,7 +36,7 @@
   
   .navigation-hamburger {
     display: none;
-    font-size: 28px;
+    font-size: 20px;
     color: white;
     cursor: pointer;
   }
@@ -72,8 +72,11 @@
     .navigation-hamburger-content.show-menu > ul {
       display: flex;
       background-color: black;
+
     }
-  
+    .navigation-hamburger-content.show-menu > ul > li:hover {
+    color:aquamarine
+    }
     .navigation-hamburger-content > ul > li {
       margin: 10px 0;
     }

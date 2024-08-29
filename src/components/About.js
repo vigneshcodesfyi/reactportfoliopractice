@@ -21,9 +21,11 @@
     In my free time, I love exploring new programming languages, contributing to open-source projects, and staying up-to-date with the latest industry trends. I'm always excited to take on new challenges and grow both personally and professionally.
     </p>
     <ul className='aboutus-sociallinks'>
-          <li><LinkedInIcon fontSize="large" /></li> 
-                <li><MailIcon  fontSize="large"/></li>
-          <li><GitHubIcon  fontSize="large"/></li>
+          <li>      <a href='https://www.linkedin.com/in/vignesh-s-9b4626229/' target='_blank'><LinkedInIcon fontSize="large" /></a></li> 
+                <li> <a href=' https://mail.google.com/mail/u/0/?hl=en/#inbox?compose=new' target='_blank'><MailIcon  fontSize="large"/></a></li>
+          <li>  <a href='https://github.com/vigneshcodesfyi' target='_blank'><GitHubIcon  fontSize="large"/></a></li>
+
+         
       </ul>
       <div className='downloadbutton'>
       <a href={resume} download={resume}>
