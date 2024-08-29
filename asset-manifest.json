@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactportfoliopractice/static/css/main.4041d592.css",
+    "main.css": "/reactportfoliopractice/static/css/main.f240d202.css",
     "main.js": "/reactportfoliopractice/static/js/main.6f9a098d.js",
     "static/media/Untitled Project.jpg": "/reactportfoliopractice/static/media/Untitled Project.2d8edd511f141f59b666.jpg",
     "static/media/Resume-Vignesh.pdf": "/reactportfoliopractice/static/media/Resume-Vignesh.8910e6d6b2649b251fe1.pdf",
     "index.html": "/reactportfoliopractice/index.html",
-    "main.4041d592.css.map": "/reactportfoliopractice/static/css/main.4041d592.css.map",
+    "main.f240d202.css.map": "/reactportfoliopractice/static/css/main.f240d202.css.map",
     "main.6f9a098d.js.map": "/reactportfoliopractice/static/js/main.6f9a098d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4041d592.css",
+    "static/css/main.f240d202.css",
     "static/js/main.6f9a098d.js"
   ]
 }
